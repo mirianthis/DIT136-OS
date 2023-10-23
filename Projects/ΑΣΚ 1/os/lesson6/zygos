@@ -1,0 +1,23 @@
+2: daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+4: sys:x:3:3:sys:/dev:/usr/sbin/nologin
+6: games:x:5:60:games:/usr/games:/usr/sbin/nologin
+8: lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+10: news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+12: proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+14: backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+16: irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+18: nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+20: systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+22: messagebus:x:103:106::/nonexistent:/usr/sbin/nologin
+24: _apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+26: uuidd:x:107:114::/run/uuidd:/usr/sbin/nologin
+28: avahi-autoipd:x:109:116:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+30: rtkit:x:111:117:RealtimeKit,,,:/proc:/usr/sbin/nologin
+32: cups-pk-helper:x:113:120:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+34: avahi:x:115:121:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/usr/sbin/nologin
+36: saned:x:117:123::/var/lib/saned:/usr/sbin/nologin
+38: hplip:x:119:7:HPLIP system user,,,:/run/hplip:/bin/false
+40: colord:x:121:126:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+42: pulse:x:123:128:PulseAudio daemon,,,:/var/run/pulse:/usr/sbin/nologin
+44: gdm:x:125:130:Gnome Display Manager:/var/lib/gdm3:/bin/false
+46: systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin

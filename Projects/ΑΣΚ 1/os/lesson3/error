@@ -1,0 +1,5 @@
+
+Command 'lsd' not found, but can be installed with:
+
+sudo snap install lsd
+

@@ -1,0 +1,17 @@
+
+Command 'pwd1' not found, did you mean:
+
+  command 'pwd' from deb coreutils (8.30-3ubuntu2)
+  command 'pwdx' from deb procps (2:3.3.16-1ubuntu2)
+  command 'pid1' from deb pid1 (0.1.2.0-3build3)
+
+Try: sudo apt install <deb name>
+
+
+Command 'pwd2' not found, did you mean:
+
+  command 'pwd' from deb coreutils (8.30-3ubuntu2)
+  command 'pwdx' from deb procps (2:3.3.16-1ubuntu2)
+
+Try: sudo apt install <deb name>
+
